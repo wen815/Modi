@@ -1,0 +1,24 @@
+/*background*/
+body{background: url(../images/bg.jpg) no-repeat;background-size: cover;}
+
+
+/*display*/
+#s{width:50%;margin:10% 25%;height: 600px;background: rgba(0,0,0,0.4);border-radius: 17px;}
+/*navigation*/
+nav{padding:30px 6%;}
+ul li{list-style: none;float:left;margin:0 30px;font-size:20px;text-align: center;position: relative;cursor:pointer;}
+i{color:white;position: relative;z-index: 1}
+ul li a{color:white;position: relative;z-index: 1}
+ul li:hover a{text-decoration: none;color:white;}
+.s{width:120%;height:0;background-color:#269abc;position: absolute;z-index:0;top:-53%;left:-10%;border-radius: 0 0 10px 10px;}
+
+/*content
+#content section{height:200px;}
+/*profile section*/
+.sc1{margin-top:50px;color:white;text-align: center;}
+#modi{width:150px;height: 150px;border-radius: 50%;}
+p{text-align: left;text-indent: 2em;width: 90%;margin-left:5%;color:white;}
+
+.green{color:green;}
+
+#content section{margin-top:150px;color:white;text-align: center;}
